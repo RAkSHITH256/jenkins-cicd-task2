@@ -1,0 +1,19 @@
+{
+  "name": "jenkins-cicd-task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "start": "node server.js",
+  "test": "node --test"
+ },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "supertest": "^7.3.1"
+  }
+}
